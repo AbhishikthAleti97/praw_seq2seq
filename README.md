@@ -12,3 +12,10 @@ Voila, you now have a dataset of your favorite subreddit. This program collects 
 
 Each line represents a comment submission.
 This program is optimal to train seq-seq chatbots.
+
+
+Plans:
+
+Make it beautiful by re-writing the entire program using OOPS concepts.
+Making it available to install using pip.
+Making it a part of chatterbot's features (just like how twitter data is scraped on chatterbot).
